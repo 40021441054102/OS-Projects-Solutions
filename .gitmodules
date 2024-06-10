@@ -1,3 +1,6 @@
 [submodule "Check-OS-Behaviour"]
 	path = Check-OS-Behaviour
 	url = https://github.com/40021441054102/Check-OS-Behaviour.git
+[submodule "Analyze-Apache-Logs"]
+	path = Analyze-Apache-Logs
+	url = https://github.com/40021441054102/Analyze-Apache-Logs.git
