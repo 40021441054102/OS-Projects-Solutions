@@ -10,3 +10,6 @@
 [submodule "Algorithms"]
 	path = Algorithms
 	url = https://github.com/40021441054102/Algorithms.git
+[submodule "Process-Scheduling-Algorithms"]
+	path = Process-Scheduling-Algorithms
+	url = https://github.com/40021441054102/Process-Scheduling-Algorithms.git
