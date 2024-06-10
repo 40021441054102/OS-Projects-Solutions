@@ -7,3 +7,6 @@
 [submodule "Analyze-Earthquake-Logs"]
 	path = Analyze-Earthquake-Logs
 	url = https://github.com/40021441054102/Analyze-Earthquake-Logs.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/40021441054102/Algorithms.git
