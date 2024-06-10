@@ -13,3 +13,6 @@
 [submodule "Process-Scheduling-Algorithms"]
 	path = Process-Scheduling-Algorithms
 	url = https://github.com/40021441054102/Process-Scheduling-Algorithms.git
+[submodule "xv6-System-Calls"]
+	path = xv6-System-Calls
+	url = https://github.com/40021441054102/xv6-System-Calls.git
