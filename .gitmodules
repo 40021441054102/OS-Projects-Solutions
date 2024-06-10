@@ -16,3 +16,6 @@
 [submodule "xv6-System-Calls"]
 	path = xv6-System-Calls
 	url = https://github.com/40021441054102/xv6-System-Calls.git
+[submodule "Kernel-Modules"]
+	path = Kernel-Modules
+	url = https://github.com/40021441054102/Kernel-Modules.git
