@@ -19,3 +19,6 @@
 [submodule "Kernel-Modules"]
 	path = Kernel-Modules
 	url = https://github.com/40021441054102/Kernel-Modules.git
+[submodule "Health-Check-Logger"]
+	path = Health-Check-Logger
+	url = https://github.com/40021441054102/Health-Check-Logger.git
