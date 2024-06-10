@@ -4,3 +4,6 @@
 [submodule "Analyze-Apache-Logs"]
 	path = Analyze-Apache-Logs
 	url = https://github.com/40021441054102/Analyze-Apache-Logs.git
+[submodule "Analyze-Earthquake-Logs"]
+	path = Analyze-Earthquake-Logs
+	url = https://github.com/40021441054102/Analyze-Earthquake-Logs.git
